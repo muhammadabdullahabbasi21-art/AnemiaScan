@@ -1,0 +1,6 @@
+
+dataset/
+Application of Machine Learning*/
+__pycache__/
+*.pyc
+.venv/
